@@ -23,7 +23,7 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
-.categoria_videos {
+.categoria-videos {
      display: flex;
     overflow-x: auto;
     gap: 10px;
